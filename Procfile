@@ -1,1 +1,1 @@
-web: gunicorn carzon.wsgi --log-file -
+web: gunicorn carzoneproject.wsgi --log-file -
